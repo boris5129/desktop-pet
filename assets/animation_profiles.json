@@ -1,0 +1,15 @@
+{
+  "digimon:agumon": {
+    "ground": 56,
+    "clips": {
+      "idle": {"frames": [0, 1, 0, 22], "frame_ms": 245},
+      "walk": {"frames": [0, 1], "frame_ms": 125},
+      "feed": {"frames": [0, 1, 0], "frame_ms": 140},
+      "sleep": {"frames": [22, 23], "frame_ms": 520},
+      "thunder": {"frames": [1, 6, 7, 0], "frame_ms": 255},
+      "play": {"frames": [0, 6, 7, 1], "frame_ms": 170},
+      "solo_play": {"frames": [0, 6, 7, 1], "frame_ms": 170},
+      "pet": {"frames": [0, 22, 1], "frame_ms": 170}
+    }
+  }
+}
